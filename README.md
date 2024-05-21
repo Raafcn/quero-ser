@@ -34,9 +34,9 @@ O que nos interessa é:
 
 Nós te ajudamos ensinando e guiando seu aprendizado. Você só precisa gostar do que faz, ter boa vontade e ter disposição para estudar.
 
-## [Como me candidato?](id:ComoMeCandidato)
+## [Como me candidato?](id:https://www.linkedin.com/in/rafaela-cason-3068551b5)
 
-### [Desenvolvedor(a)](id:CandidaturaDev)
+### [Desenvolvedor(a)](id:https://www.google.com/search?q=Interlitrader&oq=Interlitrader&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDExOTFqMGo5qAIBsAIB&client=ms-android-motorola-rvo3&sourceid=chrome-mobile&ie=UTF-8)
 
 Para oportunidade de **Desenvolvedor(a)** siga as instruções abaixo:
 
@@ -47,7 +47,7 @@ Para oportunidade de **Desenvolvedor(a)** siga as instruções abaixo:
 5. Publique a solução em um repositório git e envie um e-mail para **vagas.dev@intelitrader.com.br**. Seu e-mail deve conter o **os 2 desafios escolhidos**, **sua solução** (link para o repositório), e um **link para seu curriculum, portfolio ou linkedin**.
 6. Se você seguiu as instruções corretamente e seu código funciona (sim, precisa compilar de primeira e caso alguma coisa tenha que ser feita para rodar o programa, deve estar documentado em um readme.md) entraremos em contato para marcar uma entrevista técnica.
 
-## [Condições](id:CondicoesEDiferenciais)
+## [Condições](id:https://docs.google.com/presentation/d/1WO95l0rXoJe_q7NHYyVLNQqZSXObaYJAsZJNNKN8RTM/edit?usp=drivesdk)
 
 * Regime: **PJ**;
 * Período: **Integral**;
